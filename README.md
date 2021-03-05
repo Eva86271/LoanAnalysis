@@ -7,6 +7,7 @@ A boosting model was chosen to showcase the robustness as they learn from the la
 ## Statistical description
 ![Description](https://github.com/Eva86271/LoanAnalysis/blob/main/Image_LoanAnalysis/Description.PNG)
 ## Visualization
+How the count of Loan Status varies with Gender
 ![Data Exploration](https://github.com/Eva86271/LoanAnalysis/blob/main/Image_LoanAnalysis/output_30_1.png)
 
 ## Learning:
