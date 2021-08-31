@@ -5,7 +5,7 @@ import csv
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
-from sklearn.feature_selection import chi2
+from sklearn.feature_selection import chi2 
 from sklearn.model_selection import train_test_split,KFold,GridSearchCV
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import GradientBoostingClassifier
